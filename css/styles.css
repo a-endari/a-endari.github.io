@@ -1,3 +1,30 @@
+@font-face {
+  font-family: "Ubuntu";
+  src: url("Fonts/Ubuntu/ubuntu-regular-webfont.woff2") format("woff2"),
+    url("Fonts/Ubuntu/ubuntu-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: optional;
+}
+
+@font-face {
+  font-family: "Fira";
+  src: url("Fonts/Fira/firasansextracondensed-bold-webfont.woff2")
+      format("woff2"),
+    url("Fonts/Fira/firasansextracondensed-bold-webfont.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: optional;
+}
+
+@font-face {
+  font-family: "Aargh";
+  src: url("Fonts/Aargh/aaargh-webfont.woff2") format("woff2"),
+    url("Fonts/Aargh/aaargh-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: optional;
+}
 *,
 *::after,
 *::before {
@@ -10,23 +37,37 @@
 .bighide {
   display: none;
 }
-
+body {
+  color: #333;
+  font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 1rem;
+}
 /* Hide scrollbar for IE, Edge and Firefox */
 .hide-scroll-bar-2 {
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
 }
 /* hereon we work on layout */
-/* styling links and selectins in paragraphs */
+/* styling links and selections in paragraphs */
 a.nav-link:link,
 a.nav-link:visited {
-  color: white;
+  color: whitesmoke;
   text-decoration: none;
 }
 p::selection,
 h2::selection {
   background-color: tomato;
   color: white;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Fira, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 /* navigation bar in wide screens */
@@ -47,28 +88,28 @@ h2::selection {
 .nav-item {
   width: 50%;
   font-weight: bold;
-  color: white;
-  font-size: 2vh;
+  color: whitesmoke;
+  font-size: 1.2rem;
   text-shadow: rgba(0, 0, 0, 0.2) 1px 1px;
   display: flex;
   margin-top: 0;
   justify-content: center;
   align-items: center;
-  background-color: rgba(30, 143, 255, 0.801);
+  background-color: rgba(27, 153, 139, 1);
 }
 .nav-item:hover,
 .nav-item:active {
-  border-top: 2px solid rgb(0, 98, 196);
-  background-color: rgba(30, 143, 255, 0.801);
+  border-top: 3px solid rgba(45, 48, 71, 1);
+  background-color: rgba(27, 153, 139, 1);
 }
 /* defining a grid for website here */
 .main-grid {
-  background-color: rgba(30, 143, 255, 0.801);
   background-size: cover;
   height: 100vh;
   display: grid;
   display: -ms-grid;
   grid-template: 05vh auto auto / auto auto auto;
+  grid-template: 05vh auto auto / 0 auto 0;
   justify-content: center;
   align-content: center;
   align-items: stretch;
@@ -80,31 +121,61 @@ h2::selection {
     "left-side main right-side"
     "footer footer footer";
 }
+.grid-show-left {
+  background-size: cover;
+  height: 100vh;
+  display: grid;
+  display: -ms-grid;
+  grid-template: 05vh auto auto / auto auto 0;
+  justify-content: center;
+  align-content: center;
+  align-items: stretch;
+  justify-items: stretch;
+  margin: 0;
+  overflow: auto;
+}
+
+.grid-show-right {
+  background-size: cover;
+  height: 100vh;
+  display: grid;
+  display: -ms-grid;
+  grid-template: 05vh auto auto / 0 auto auto;
+  justify-content: center;
+  align-content: center;
+  align-items: stretch;
+  justify-items: stretch;
+  margin: 0;
+  overflow: auto;
+}
 /* class for style of main section and putting it in main section of the grid  */
 #main {
   height: 90vh;
-  background: beige;
+  background: rgba(255, 253, 130, 1);
   grid-row: 2;
   grid-column: 2;
-  text-align: center;
+  text-align: left;
   overflow: scroll;
 }
-/* #TODO: make it horizantal in small */
+
+/* putting navigation bar in top row */
+
 #nav-grid {
   grid-row: 1;
   grid-column: 1 / 4;
 }
 
 #aside-left {
-  background: deepskyblue;
+  background: rgba(255, 152, 113, 1);
   height: 90vh;
   grid-row: 2;
   grid-column: 1;
   text-align: left;
+  transition: 0.3s ease-in;
 }
 
 #aside-right {
-  background: deepskyblue;
+  background: rgba(255, 152, 113, 1);
   height: 90vh;
   grid-row: 2;
   grid-column: 3;
@@ -112,12 +183,13 @@ h2::selection {
 }
 
 #footer {
-  background: lightgoldenrodyellow;
+  background: rgba(45, 48, 71, 1);
+  color: whitesmoke;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 5vh;
-  font-size: 1.2vh;
+  font-size: 0.8rem;
   grid-row: 3;
   grid-column: 1/4;
   text-align: center;
@@ -139,7 +211,7 @@ li {
 }
 .aside-item {
   border-radius: 10px;
-  background-color: rgb(35, 100, 240);
+  background-color: rgba(232, 72, 85, 1);
   margin-top: 4vh;
   margin-bottom: 4vh;
   margin-left: 2vw;
@@ -166,7 +238,7 @@ li {
   }
 
   .navbar {
-    background: rgba(30, 143, 255, 0.801);
+    background: rgba(27, 153, 139, 1);
     position: fixed;
     width: 21%;
     height: 90vh;
