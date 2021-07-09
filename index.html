@@ -26,13 +26,19 @@
       </a>
 
       <nav class="navbar main-menu" id="main-menu">
-        <a class="nav-item nav-link" href="#"> Contact </a>
+        <a class="nav-item nav-link" id="left-aside-btn" href="#">
+          left menu
+        </a>
+
         <a class="nav-item nav-link" href="#"> About </a>
         <a class="nav-item nav-link" href="#"> Media </a>
         <a class="nav-item nav-link" href="#"> History</a>
         <a class="nav-item nav-link" href="#"> Abbas </a>
         <a class="nav-item nav-link" href="#"> News </a>
         <a class="nav-item nav-link" href="#"> Home </a>
+        <a class="nav-item nav-link" id="right-aside-btn" href="#">
+          right menu
+        </a>
       </nav>
     </header>
     <div class="main-grid">
@@ -124,7 +130,7 @@
           </p>
         </article>
       </main>
-      <aside id="aside-left" class="pad hide">
+      <aside id="aside-left" class="pad hide" data-aos="ease-in-quad">
         <ul>
           <li class="aside-item">
             <a class="nav-link" href="#">left aside item</a>
@@ -174,10 +180,25 @@
       // Look for .hamburger
       var hamburger = document.querySelector(".hamburger");
       var menu = document.querySelector(".main-menu");
+      var maingrid = document.querySelector(".main-grid");
+      var lab = document.querySelector("#left-aside-btn");
+      var rab = document.querySelector("#right-aside-btn");
       // On click
       hamburger.addEventListener("click", function () {
         // Toggle class "is-active"
         hamburger.classList.toggle("is-active");
+        menu.classList.toggle("main-menu-in");
+        // Do something else, like open/close menu
+      });
+      lab.addEventListener("click", function () {
+        // Toggle class "is-active"
+        maingrid.classList.toggle("grid-show-left");
+        menu.classList.toggle("main-menu-in");
+        // Do something else, like open/close menu
+      });
+      rab.addEventListener("click", function () {
+        // Toggle class "is-active"
+        maingrid.classList.toggle("grid-show-right");
         menu.classList.toggle("main-menu-in");
         // Do something else, like open/close menu
       });
