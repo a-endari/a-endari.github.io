@@ -10,114 +10,198 @@
     <title>Document</title>
   </head>
 
-  <body class="hide-scroll-bar hide-scroll-bar-2">
+  <body>
     <header>
-      <nav id="navbar" class="navbar">
-        <a class="nav-item" href="#"> About </a>
-        <a class="nav-item" href="#"> Educations </a>
-        <a class="nav-item" href="#"> Projects</a>
-        <a class="nav-item" href="#"> Specilities </a>
+      <a id="nav-item-1" class="bighide" id="nav-grid" href="#main-menu">
+        <button
+          title="Menu"
+          class="hamburger hamburger--collapse"
+          type="button"
+          data-aos="fade-right"
+        >
+          <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+          </span>
+        </button>
+      </a>
+
+      <nav class="navbar main-menu" id="main-menu">
+        <a class="nav-item nav-link" id="left-aside-btn" href="#">
+          left menu
+        </a>
+
+        <a class="nav-item nav-link" href="#"> About </a>
+        <a class="nav-item nav-link" href="#"> Media </a>
+        <a class="nav-item nav-link" href="#"> History</a>
+        <a class="nav-item nav-link" href="#"> Abbas </a>
+        <a class="nav-item nav-link" href="#"> News </a>
+        <a class="nav-item nav-link" href="#"> Home </a>
+        <a class="nav-item nav-link" id="right-aside-btn" href="#">
+          right menu
+        </a>
       </nav>
     </header>
-    <main>
-      <article class="text-box" data-aos="fade-left">
-        <header>
-          <h2>Lorem <a href="#main-menu">ipsum</a> dolor sit amet.</h2>
-        </header>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt corporis
-          adipisci beatae dolorem eum soluta! Perspiciatis eum odit iusto
-          voluptas. Possimus excepturi sapiente molestias officia dolores est
-          dolor ataspernatur tempore officia totam repellendus voluptatem quod
-          blanditiis commodi id sed rerum nisi laborum in delectus non, fuga
-          possimus minima illum rem et unde recusandae quas. Assumenda
-          reprehenderit repellat dicta eius, commodi sunt provident, asperiores
-          eveniet, neque cumque eos alias quae.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore
-          possimus quos eius, quo molestiae, natus eveniet veritatis minus magni
-          voluptate nobis quis debitis, fugiat perferendis esse ullam explicabo
-          quisquam voluptas ipsam sint ab itaque numquam ex voluptates! Nisi
-          delectus officia minima veritatis eaque culpa eveniet cupiditate nam
-          in aliquid, nobis temporibus autem aperiam minus labore quis eos
-          deleniti placeat hic qui corporis! Accusamus, quidem. Corrupti amet
-          excepturi voluptatem, eligendi, cupiditate voluptates quam veritatis
-          vel repellat, quibusdam recusandae molestiae natus placeat molestias.
-          Quis autem dicta eligendi obcaecati optio cum magni, quisquam officiis
-          cupiditate doloremque, in voluptas quibusdam mollitia. Placeat, ipsum
-          ratione.
-        </p>
-      </article>
-      <article class="text-box" data-aos="fade-right">
-        <header>
-          <h2>Lorem <a href="#main-menu">ipsum</a> dolor sit amet.</h2>
-        </header>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt corporis
-          adipisci beatae dolorem eum soluta! Perspiciatis eum odit iusto
-          voluptas. Possimus excepturi sapiente molestias officia dolores est
-          dolor ataspernatur tempore officia totam repellendus voluptatem quod
-          blanditiis commodi id sed rerum nisi laborum in delectus non, fuga
-          possimus minima illum rem et unde recusandae quas. Assumenda
-          reprehenderit repellat dicta eius, commodi sunt provident, asperiores
-          eveniet, neque cumque eos alias quae.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore
-          possimus quos eius, quo molestiae, natus eveniet veritatis minus magni
-          voluptate nobis quis debitis, fugiat perferendis esse ullam explicabo
-          quisquam voluptas ipsam sint ab itaque numquam ex voluptates! Nisi
-          delectus officia minima veritatis eaque culpa eveniet cupiditate nam
-          in aliquid, nobis temporibus autem aperiam minus labore quis eos
-          deleniti placeat hic qui corporis! Accusamus, quidem. Corrupti amet
-          excepturi voluptatem, eligendi, cupiditate voluptates quam veritatis
-          vel repellat, quibusdam recusandae molestiae natus placeat molestias.
-          Quis autem dicta eligendi obcaecati optio cum magni, quisquam officiis
-          cupiditate doloremque, in voluptas quibusdam mollitia. Placeat, ipsum
-          ratione.
-        </p>
-      </article>
-    </main>
-    <aside>
-      <ul>
-        <li class="aside-item">
-          <a href="#">Aside Item</a>
-        </li>
-        <li class="aside-item">
-          <a href="#">Aside Item</a>
-        </li>
-        <li class="aside-item">
-          <a href="#">Aside Item</a>
-        </li>
-        <li class="aside-item">
-          <a href="#">Aside Item</a>
-        </li>
-        <li class="aside-item">
-          <a href="#">Aside Item</a>
-        </li>
-      </ul>
-    </aside>
-    <footer>
-      <nav>
+    <div class="main-grid">
+      <main id="main" class="pad fill-grid hide-scroll-bar hide-scroll-bar-2">
+        <article>
+          <header data-aos="ease-in-quad">
+            <h2>Lorem <a href="#main-menu">ipsum</a> dolor sit amet.</h2>
+          </header>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt
+            corporis adipisci beatae dolorem eum soluta! Perspiciatis eum odit
+            iusto voluptas. Possimus excepturi sapiente molestias officia
+            dolores est dolor at quidem dignissimos alias, totam quisquam,
+            corrupti recusandae fugit? Esse porro provident tempora inventore,
+            ullam voluptatem ipsam dolorem nulla minima ratione ad. Sapiente
+            totam numquam maxime provident voluptates fugiat nisi animi adipisci
+            cumque repellendus aperiam eligendi alias quia rerum perspiciatis
+            mollitia delectus aspernatur placeat ab eius modi tempora, aut est
+            expedita! Cum autem in quod modi libero at odit, perferendis quos,
+            necessitatibus reiciendis expedita, voluptatibus dicta praesentium
+            dolores exercitationem neque quas ipsa? Est officia ducimus aliquam
+            dignissimos dolorum ut nisi non cumque, fugit rerum expedita, magni
+            animi quod voluptates nam sed neque ipsa repellat consequuntur
+            ratione doloremque amet? Impedit animi dolorem et quia doloribus
+            minima ipsam id officia obcaecati incidunt, nobis modi fuga ipsum
+            laborum numquam alias. Qui dolorem delectus optio, ipsum ullam
+            voluptates saepe nihil ea maiores velit aperiam! Sapiente id
+            distinctio, fuga nemo tempore alias unde, iure ea deserunt delectus
+            provident temporibus ducimus quae at laborum odit aut, facere ex! Ab
+            at debitis sequi. Mollitia praesentium fugiat, aut quas maiores, at
+            labore expedita, adipisci sit eveniet aperiam? Dolorum consequuntur
+            perspiciatis pariatur possimus ea quas! In, cupiditate dolor.
+            Incidunt excepturi ipsum officiis animi quae accusantium doloribus
+            harum, perspiciatis ea sed atque totam cupiditate quod a tempora
+            quisquam amet, debitis tempore molestias optio! Fugiat cumque
+            mollitia at eum nam nostrum praesentium temporibus consequatur vero
+            quod minus voluptatibus, laudantium pariatur et. Quia accusamus
+            dicta quidem cum voluptatem! Consequatur at nihil quaerat veritatis,
+            perspiciatis est sed molestiae, a voluptates tempora neque ratione
+            alias numquam! Consequuntur eveniet aut aspernatur provident,
+            corporis doloribus eum ipsam facere iste neque. Assumenda sit velit
+            sapiente dolorum eaque incidunt explicabo quam impedit quae, sed
+            facere similique ab aperiam debitis, maxime doloremque, hic sunt.
+            Quae, necessitatibus, iure expedita velit corporis consectetur
+            commodi autem explicabo fugiat quo nisi voluptatem laboriosam
+            quisquam reiciendis. Sit dolorum nihil excepturi provident eaque
+            voluptatem officiis vero odit, neque iusto maiores modi harum, ut
+            placeat impedit! Qui necessitatibus nihil, aliquid fuga consectetur
+            ipsam non, consequatur praesentium corrupti ipsum repellat fugit
+            vitae minus aut dolor consequuntur, accusantium quidem corporis
+            eveniet? Adipisci placeat quae ipsam veritatis culpa eius labore,
+            esse reprehenderit error explicabo quas recusandae, tenetur optio
+            voluptatibus aliquid vitae minus, voluptates dolore impedit amet
+            accusamus! Mollitia minus laudantium cupiditate ullam expedita
+            laborum dolorum! Explicabo tempora sed vel voluptas cumque.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Laborum quidem
+            ipsam impedit voluptate architecto, atque ad. Odit sit laborum iste
+            fuga facere architecto suscipit. Eius incidunt id quis, recusandae,
+            dolorum esse voluptatem ducimus quia voluptate iure aperiam
+            blanditiis earum fugit sint alias? Molestias officia similique rem
+            velit ad et amet porro praesentium consequuntur incidunt libero sint
+            est eos doloremque, dignissimos saepe quaerat, temporibus labore
+            quam voluptates! Labore beatae in molestiae. Voluptates laborum,
+            porro aliquid amet rem exercitationem accusantium numquam, dolor
+            nesciunt molestias alias eligendi consequatur odit natus! Dolorem,
+            pariatur sed deleniti, explicabo necessitatibus sit libero corrupti
+            laboriosam molestias dignissimos accusamus accusantium veritatis
+            officiis et impedit deserunt. Dicta reprehenderit quae dolore
+            facilis et! Autem voluptatum aperiam laudantium, alias, tempora
+            perspiciatis amet ea deserunt voluptas excepturi sint assumenda
+            ullam facere harum, eaque quas neque natus vero nam optio dolor
+            atque. Mollitia praesentium, ipsa quam quidem rem delectus explicabo
+            blanditiis. Porro ratione dolorem quod ipsum et voluptates ab aut
+            quia voluptatem consequuntur rerum necessitatibus, possimus
+            recusandae dolor quam eos ea corporis qui beatae fuga nulla,
+            doloribus dolore unde iste. Sequi corrupti unde mollitia dolor
+            architecto maxime deserunt. Consectetur impedit quae alias
+            reprehenderit ea est corrupti sint maiores ratione accusamus,
+            dolores quia culpa aliquam?Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Aspernatur quod veritatis sit reiciendis, quos
+            commodi fugit assumenda a odit. Sint vel ipsam laboriosam, eius
+            atque repellendus sed perspiciatis, magni inventore nobis beatae quo
+            nisi eveniet praesentium ipsa quis! Consequuntur aspernatur tempore
+            officia totam repellendus voluptatem quod blanditiis commodi id sed
+            rerum nisi laborum in delectus non, fuga possimus minima illum rem
+            et unde recusandae quas. Assumenda reprehenderit repellat dicta
+            eius, commodi sunt provident, asperiores eveniet, neque cumque eos
+            alias quae.
+          </p>
+        </article>
+      </main>
+      <aside id="aside-left" class="pad hide" data-aos="ease-in-quad">
         <ul>
-          <li>this is a ul item in the footer of the body - one</li>
+          <li class="aside-item">
+            <a class="nav-link" href="#">left aside item</a>
+          </li>
+          <li class="aside-item">
+            <a class="nav-link" href="#">left aside item</a>
+          </li>
+          <li class="aside-item">
+            <a class="nav-link" href="#">left aside item</a>
+          </li>
+          <li class="aside-item">
+            <a class="nav-link" href="#">left aside item</a>
+          </li>
+          <li class="aside-item">
+            <a class="nav-link" href="#">left aside item</a>
+          </li>
         </ul>
-      </nav>
-    </footer>
-
+      </aside>
+      <aside id="aside-right" class="pad hide">
+        <ul>
+          <li class="aside-item">
+            <a class="nav-link" href="#">right aside Item</a>
+          </li>
+          <li class="aside-item">
+            <a class="nav-link" href="#">right aside Item</a>
+          </li>
+          <li class="aside-item">
+            <a class="nav-link" href="#">right aside Item</a>
+          </li>
+          <li class="aside-item">
+            <a class="nav-link" href="#">right aside Item</a>
+          </li>
+          <li class="aside-item">
+            <a class="nav-link" href="#">right aside Item</a>
+          </li>
+        </ul>
+      </aside>
+      <footer id="footer">
+        <nav id="footer-nav">
+          <ul>
+            <li>this is a ul item in the footer of the body - one</li>
+          </ul>
+        </nav>
+      </footer>
+    </div>
     <script>
-      /* When the user scrolls down, hide the navbar. When the user scrolls up, show the navbar */
-      var prevScrollpos = window.pageYOffset;
-      window.onscroll = function () {
-        var currentScrollPos = window.pageYOffset;
-        if (prevScrollpos > currentScrollPos) {
-          document.getElementById("navbar").style.top = "0";
-        } else {
-          document.getElementById("navbar").style.top = "-50px";
-        }
-        prevScrollpos = currentScrollPos;
-      };
+      // Look for .hamburger
+      var hamburger = document.querySelector(".hamburger");
+      var menu = document.querySelector(".main-menu");
+      var maingrid = document.querySelector(".main-grid");
+      var lab = document.querySelector("#left-aside-btn");
+      var rab = document.querySelector("#right-aside-btn");
+      // On click
+      hamburger.addEventListener("click", function () {
+        // Toggle class "is-active"
+        hamburger.classList.toggle("is-active");
+        menu.classList.toggle("main-menu-in");
+        // Do something else, like open/close menu
+      });
+      lab.addEventListener("click", function () {
+        // Toggle class "is-active"
+        maingrid.classList.toggle("grid-show-left");
+        menu.classList.toggle("main-menu-in");
+        // Do something else, like open/close menu
+      });
+      rab.addEventListener("click", function () {
+        // Toggle class "is-active"
+        maingrid.classList.toggle("grid-show-right");
+        menu.classList.toggle("main-menu-in");
+        // Do something else, like open/close menu
+      });
     </script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
