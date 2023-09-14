@@ -53,7 +53,7 @@ searchKeys = [
   "summary",
   "content",
   "link",
-  "author",
+  "author"
 ]
 
 # Custom copyright - optional
