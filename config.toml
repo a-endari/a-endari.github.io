@@ -1,6 +1,6 @@
-baseurl = "https://blist.vercel.app"
+baseurl = "https://a-endari.gihtub.io/"
 metaDataFormat = "yaml"
-title = "Blist Multilingual Theme"
+title = "Abbas Endari"
 theme = "blist"
 
 DefaultContentLanguage = "en"
