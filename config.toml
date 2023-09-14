@@ -11,10 +11,10 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Katheryn Fox"
+      introTitle = "Hey! I'm Abbas Endari"
       introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
+      introPhoto = "/MY_PROFILE_LOGO.png"
+      logo = "/logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
