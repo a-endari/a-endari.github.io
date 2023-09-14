@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on ENDARI</title>
+    <link>https://a-endari.github.io/en/tags/testing/</link>
+    <description>Recent content in Testing on ENDARI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a-endari.github.io/en/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Post</title>
+      <link>https://a-endari.github.io/en/blog/new/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a-endari.github.io/en/blog/new/</guid>
+      <description>heading So what ? my_dict : dict = { &amp;#34;hello&amp;#34; : &amp;#34;world&amp;#34;, &amp;#34;age&amp;#34; : 21, } sub 3 new_word its meaning</description>
+    </item>
+    
+  </channel>
+</rss>
