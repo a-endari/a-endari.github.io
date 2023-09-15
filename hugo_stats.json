@@ -237,6 +237,8 @@
     "ids": [
       "TableOfContents",
       "a",
+      "a-picture-to-show-what-i-do-whenever-i-start-",
+      "and-now-some-code",
       "blockquote-with-attribution",
       "blockquote-without-attribution",
       "blockquotes",
@@ -255,17 +257,19 @@
       "h6",
       "headings",
       "inline-markdown-within-tables",
+      "lets-begine",
       "list-types",
       "mane-refeci-capiebant-unda-mulcebat",
       "nested-list",
-      "new-info-for-thee-world",
       "ordered-list",
       "other-elements--abbr-sub-sup-kbd-mark",
       "paragraph",
+      "some-list",
+      "some-text",
       "tables",
+      "testing",
       "unordered-list",
-      "vagus-elidunt",
-      "will-it-show-on-the-site"
+      "vagus-elidunt"
     ]
   }
 }
