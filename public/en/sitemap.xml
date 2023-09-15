@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://a-endari.github.io/en/page/about/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-endari.github.io/en/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-endari.github.io/en/page/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://a-endari.github.io/en/tags/admin/</loc>
     <lastmod>2023-09-14T23:45:54+03:30</lastmod>
   </url><url>
     <loc>https://a-endari.github.io/en/blog/</loc>
-    <lastmod>2023-09-14T23:45:54+03:30</lastmod>
-  </url><url>
-    <loc>https://a-endari.github.io/en/</loc>
     <lastmod>2023-09-14T23:45:54+03:30</lastmod>
   </url><url>
     <loc>https://a-endari.github.io/en/blog/first-post/</loc>
@@ -23,16 +29,10 @@
     <loc>https://a-endari.github.io/en/tags/testing/</loc>
     <lastmod>2023-09-14T23:45:54+03:30</lastmod>
   </url><url>
-    <loc>https://a-endari.github.io/en/page/about/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://a-endari.github.io/en/tags/emoji/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a-endari.github.io/en/blog/emoji-support/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a-endari.github.io/en/page/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a-endari.github.io/en/tags/css/</loc>

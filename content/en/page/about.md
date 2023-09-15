@@ -1,26 +1,16 @@
 ---
-author: Katheryn Fox
+author: Abbas Endari
 title: About Me
-date: 2021-07-15
+date: 2023-09-15
 description:
-keywords: ["about-us", "about-hugo", "contact"]
+keywords: ["about-me", "contact"]
 type: about
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hi there, welcome to my about me page. I'm glad you're here, because I have a lot to say. Let me start by telling you a little bit about myself.
 
-Hugo makes use of a variety of open source projects including:
+I was born in Iran in 1989, the same year as Taylor Swift and Daniel Radcliffe. I have a masters degree in biomedical engineering, which means I know a lot about how the human body works and how to design devices that can help people.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+I'm passionate about programming in python, especially web development. I think it's amazing how you can create beautiful and functional websites with just a few lines of code. I also love sci-fi books, sci-fi movies and new technologies. Some of my favorite authors are Isaac Asimov, Arthur C. Clarke and Philip K. Dick. Some of my favorite movies are The Matrix, Blade Runner and Interstellar. Some of the technologies that fascinate me are artificial intelligence, virtual reality and biotechnology.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+On this blog, I plan to post about things that interest me, such as python projects, sci-fi reviews, tech news and more. I hope you enjoy reading my posts and feel free to leave your comments and feedback. Thanks for visiting!
