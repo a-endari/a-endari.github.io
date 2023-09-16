@@ -11,8 +11,8 @@ contentDir = "content/en" #English
 weight = 1
 languageName = "English"
 [languages.en.params]
-introTitle = "Hey! I'm Abbas Endari 💖"
-introSubtitle = "Biomedical engineer, Python Entusiast, avid reader and hopfully sometimes a blogger!"
+introTitle = "Hey! I'm Abbas Endari 🙋‍♂️"
+introSubtitle = "Biomedical engineer, Python Enthusiast, avid reader and hopefully sometimes soon a blogger!"
 introPhoto = "/admin_picture.jpeg"
 logo = "/logo.png"
 [[languages.en.menu.main]]
@@ -110,8 +110,8 @@ theme = ""
 
 [params.homepage.social]
 # Global params common for both languages
-title = "Follow me"
-description = "I work on everything coding and tweet developer memes"
+title = "Follow me (if you can find me!)"
+description = "I am on social media, but I'm not really into socializing over media!"
 
 [[params.homepage.social.icons]]
 website = "twitter"
