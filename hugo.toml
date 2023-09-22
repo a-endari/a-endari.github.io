@@ -13,7 +13,7 @@ contentDir = "content/en" #English
 weight = 1
 languageName = "English"
 [languages.en.params]
-introTitle = "Hey! I'm A. Endari 🙋‍♂️"
+introTitle = "Hey!🙋‍♂️ I'm A. Endari"
 introSubtitle = "Biomedical engineer, Python Enthusiast, avid reader and hopefully sometimes soon a blogger!"
 introPhoto = "/admin_picture.jpeg"
 logo = "/logo.png"
@@ -50,22 +50,19 @@ weight = 4
 #         name = "Blog"
 #         url = "blog"
 #         weight = 1
-
 #     [[languages.de.menu.main]]
 #         name = "Über mich"
 #         url = "page/about/"
 #         weight = 2
-
 #     [[languages.de.menu.main]]
 #         name = "Tags"
 #         url = "tags"
 #         weight = 3
   
 [params]
-# Enable the darkmode toggle in header
+
 darkModeToggle = true
 
-# Enable search in header
 enableSearch = true
 
 # Option to customize the search parameters of a page
