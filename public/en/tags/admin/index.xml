@@ -13,8 +13,8 @@
       <pubDate>Thu, 14 Sep 2023 23:45:54 +0330</pubDate>
       
       <guid>https://a-endari.github.io/en/blog/first-post/</guid>
-      <description>Testing Let&amp;rsquo;s begine Some text This is a paragraph of text, with important and semi important words. do I need to wrap my text with enters, or it will be aligned as justified? who knows! now lets write some lists and code blocks and quotes:
-Some list Things to do: read the documentation. find a good subject to write about write the blog polish and publish And now some code def averager(*args: int) -&amp;gt; float: return sum(args) / len(args) A picture to show what i do whenever I start!</description>
+      <description>Testing Let&amp;rsquo;s begin by a subtitle! And some more subheading text This is a paragraph of text, with important and semi important words. do I need to wrap my text with enters, or it will be aligned as justified? who knows! now lets write some lists and code blocks and quotes:
+Some list Things to do: read the documentation. find a good subject to write about write the blog polish and publish And now some code: def averager(*args: int) -&amp;gt; float: return sum(args) / len(args) A picture: Emoji Test 😀🙂 😜 :😀:🙂</description>
     </item>
     
   </channel>
