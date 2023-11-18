@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'ENDARI'
 theme = 'blist'
 enableEmoji = true
-
+timeout = "10m"  
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true

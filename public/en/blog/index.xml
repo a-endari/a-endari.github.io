@@ -6,7 +6,17 @@
     <description>Recent content in Blog on ENDARI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Sep 2023 23:45:54 +0330</lastBuildDate><atom:link href="https://a-endari.github.io/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2023 18:06:54 +0330</lastBuildDate><atom:link href="https://a-endari.github.io/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All About Markdown 🗒️</title>
+      <link>https://a-endari.github.io/en/blog/my-second-post-markdown/</link>
+      <pubDate>Mon, 25 Sep 2023 18:06:54 +0330</pubDate>
+      
+      <guid>https://a-endari.github.io/en/blog/my-second-post-markdown/</guid>
+      <description>Markdown A simple text file that looks good! we can kind of call it the html of plain text. a title in markdown is simply shown by a single-pound sign followed by a single or multiple spaces -&amp;gt; # , and as you add to the number of pound-signs (like ## or ###), you decrease the size of the title.
+# this would be &amp;lt;h1&amp;gt; title ## and this would be &amp;lt;h2&amp;gt; title .</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://a-endari.github.io/en/blog/first-post/</link>
