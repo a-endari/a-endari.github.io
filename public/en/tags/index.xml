@@ -2,82 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ENDARI</title>
-    <link>https://a-endari.github.io/en/tags/</link>
+    <link>http://localhost:1313/en/tags/</link>
     <description>Recent content in Tags on ENDARI</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Sep 2023 23:45:54 +0330</lastBuildDate><atom:link href="https://a-endari.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 11:25:37 +0330</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Admin</title>
-      <link>https://a-endari.github.io/en/tags/admin/</link>
-      <pubDate>Thu, 14 Sep 2023 23:45:54 +0330</pubDate>
-      
-      <guid>https://a-endari.github.io/en/tags/admin/</guid>
+      <link>http://localhost:1313/en/tags/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/admin/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>temporary</title>
-      <link>https://a-endari.github.io/en/tags/temporary/</link>
-      <pubDate>Thu, 14 Sep 2023 23:45:54 +0330</pubDate>
-      
-      <guid>https://a-endari.github.io/en/tags/temporary/</guid>
+      <title>Perfectionist</title>
+      <link>http://localhost:1313/en/tags/perfectionist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/perfectionist/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Self-Improvement</title>
+      <link>http://localhost:1313/en/tags/self-improvement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/self-improvement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Temporary</title>
+      <link>http://localhost:1313/en/tags/temporary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/temporary/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Testing</title>
-      <link>https://a-endari.github.io/en/tags/testing/</link>
-      <pubDate>Thu, 14 Sep 2023 23:45:54 +0330</pubDate>
-      
-      <guid>https://a-endari.github.io/en/tags/testing/</guid>
+      <link>http://localhost:1313/en/tags/testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/testing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>emoji</title>
-      <link>https://a-endari.github.io/en/tags/emoji/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a-endari.github.io/en/tags/emoji/</guid>
+      <title>Emoji</title>
+      <link>http://localhost:1313/en/tags/emoji/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/emoji/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>css</title>
-      <link>https://a-endari.github.io/en/tags/css/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a-endari.github.io/en/tags/css/</guid>
+      <title>Css</title>
+      <link>http://localhost:1313/en/tags/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/css/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>html</title>
-      <link>https://a-endari.github.io/en/tags/html/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a-endari.github.io/en/tags/html/</guid>
+      <title>Html</title>
+      <link>http://localhost:1313/en/tags/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/html/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>markdown</title>
-      <link>https://a-endari.github.io/en/tags/markdown/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a-endari.github.io/en/tags/markdown/</guid>
+      <title>Markdown</title>
+      <link>http://localhost:1313/en/tags/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/markdown/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>text</title>
-      <link>https://a-endari.github.io/en/tags/text/</link>
-      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a-endari.github.io/en/tags/text/</guid>
+      <title>Text</title>
+      <link>http://localhost:1313/en/tags/text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/text/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -2,76 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ENDARI</title>
-    <link>https://a-endari.github.io/en/</link>
+    <link>http://localhost:1313/en/</link>
     <description>Recent content on ENDARI</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Sep 2023 18:06:54 +0330</lastBuildDate><atom:link href="https://a-endari.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 11:25:37 +0330</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Problems of a Perfectionist</title>
+      <link>http://localhost:1313/en/blog/problems-of-a-perfectionist/</link>
+      <pubDate>Fri, 01 Mar 2024 11:25:37 +0330</pubDate>
+      <guid>http://localhost:1313/en/blog/problems-of-a-perfectionist/</guid>
+      <description>Chapter One The trap of perfection After over 30 years of walking the earth believing the problem was with everything else but me, I just recently found out most of the goal I never achieved were the direct result of a very big lie I&amp;rsquo;ve bin telling myself all my life, &amp;ldquo;Perfection is the goal!&amp;rdquo;. Looking back now, I even have a list of rules, that the first command of which reads like this: &amp;ldquo;Do it, only if you can do it perfectly&amp;rdquo;, and oh boy!</description>
+    </item>
     <item>
       <title>All About Markdown 🗒️</title>
-      <link>https://a-endari.github.io/en/blog/my-second-post-markdown/</link>
+      <link>http://localhost:1313/en/blog/my-second-post-markdown/</link>
       <pubDate>Mon, 25 Sep 2023 18:06:54 +0330</pubDate>
-      
-      <guid>https://a-endari.github.io/en/blog/my-second-post-markdown/</guid>
-      <description>Markdown A simple text file that looks good! we can kind of call it the html of plain text. a title in markdown is simply shown by a single-pound sign followed by a single or multiple spaces -&amp;gt; # , and as you add to the number of pound-signs (like ## or ###), you decrease the size of the title.
-# this would be &amp;lt;h1&amp;gt; title ## and this would be &amp;lt;h2&amp;gt; title .</description>
+      <guid>http://localhost:1313/en/blog/my-second-post-markdown/</guid>
+      <description>Markdown A simple text file that looks good! We can kind of call it the html of plain text. A title in markdown is simply shown by a single-pound sign followed by a single or multiple spaces -&amp;gt; # , and as you add to the number of pound-signs (like ## or ###), you decrease the size of the title.&#xA;# this would be &amp;lt;h1&amp;gt; title ## and this would be &amp;lt;h2&amp;gt; title .</description>
     </item>
-    
     <item>
       <title>About Me</title>
-      <link>https://a-endari.github.io/en/page/about/</link>
+      <link>http://localhost:1313/en/page/about/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://a-endari.github.io/en/page/about/</guid>
-      <description>Hi there, welcome to my about me page. I&amp;rsquo;m glad you&amp;rsquo;re here, because I have a lot to say. Let me start by telling you a little bit about myself.
-I was born in Iran in 1989, the same year as Taylor Swift and Daniel Radcliffe. I have a masters degree in biomedical engineering, which means I know a lot about how the human body works and how to design devices that can help people.</description>
+      <guid>http://localhost:1313/en/page/about/</guid>
+      <description>Hi there, welcome to my about me page. I&amp;rsquo;m glad you&amp;rsquo;re here, because I have a lot to say. Let me start by telling you a little bit about myself.&#xA;I was born in Iran in 1989, the same year as Taylor Swift and Daniel Radcliffe. I have a masters degree in biomedical engineering, which means I know a lot about how the human body works and how to design devices that can help people.</description>
     </item>
-    
     <item>
       <title>My First Post</title>
-      <link>https://a-endari.github.io/en/blog/first-post/</link>
+      <link>http://localhost:1313/en/blog/first-post/</link>
       <pubDate>Thu, 14 Sep 2023 23:45:54 +0330</pubDate>
-      
-      <guid>https://a-endari.github.io/en/blog/first-post/</guid>
-      <description>Testing Let&amp;rsquo;s begin by a subtitle! And some more subheading text This is a paragraph of text, with important and semi important words. do I need to wrap my text with enters, or it will be aligned as justified? who knows! now lets write some lists and code blocks and quotes:
-Some list Things to do: read the documentation. find a good subject to write about write the blog polish and publish And now some code: def averager(*args: int) -&amp;gt; float: return sum(args) / len(args) A picture: Emoji Test 😀🙂 😜 :😀:🙂</description>
+      <guid>http://localhost:1313/en/blog/first-post/</guid>
+      <description>Testing Let&amp;rsquo;s begin by a subtitle! And some more subheading text This is a paragraph of text, with important and semi important words. do I need to wrap my text with enters, or it will be aligned as justified? who knows! now lets write some lists and code blocks and quotes:&#xA;Some list Things to do: read the documentation. find a good subject to write about write the blog polish and publish And now some code: def averager(*args: int) -&amp;gt; float: return sum(args) / len(args) A picture: Emoji Test :grinning_face:🙂 :winking_face_with_tongue: ::grinning_face::🙂</description>
     </item>
-    
     <item>
       <title>Emoji Support</title>
-      <link>https://a-endari.github.io/en/blog/emoji-support/</link>
+      <link>http://localhost:1313/en/blog/emoji-support/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a-endari.github.io/en/blog/emoji-support/</guid>
+      <guid>http://localhost:1313/en/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://a-endari.github.io/en/blog/markdown-syntax/</link>
+      <link>http://localhost:1313/en/blog/markdown-syntax/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a-endari.github.io/en/blog/markdown-syntax/</guid>
+      <guid>http://localhost:1313/en/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Math Typesetting</title>
-      <link>https://a-endari.github.io/en/blog/math-typesetting/</link>
+      <link>http://localhost:1313/en/blog/math-typesetting/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a-endari.github.io/en/blog/math-typesetting/</guid>
+      <guid>http://localhost:1313/en/blog/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Placeholder Text</title>
-      <link>https://a-endari.github.io/en/blog/placeholder-text/</link>
+      <link>http://localhost:1313/en/blog/placeholder-text/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a-endari.github.io/en/blog/placeholder-text/</guid>
+      <guid>http://localhost:1313/en/blog/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

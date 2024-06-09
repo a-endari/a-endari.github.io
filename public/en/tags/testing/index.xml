@@ -2,20 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Testing on ENDARI</title>
-    <link>https://a-endari.github.io/en/tags/testing/</link>
+    <link>http://localhost:1313/en/tags/testing/</link>
     <description>Recent content in Testing on ENDARI</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Sep 2023 23:45:54 +0330</lastBuildDate><atom:link href="https://a-endari.github.io/en/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Sep 2023 23:45:54 +0330</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/testing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://a-endari.github.io/en/blog/first-post/</link>
+      <link>http://localhost:1313/en/blog/first-post/</link>
       <pubDate>Thu, 14 Sep 2023 23:45:54 +0330</pubDate>
-      
-      <guid>https://a-endari.github.io/en/blog/first-post/</guid>
-      <description>Testing Let&amp;rsquo;s begin by a subtitle! And some more subheading text This is a paragraph of text, with important and semi important words. do I need to wrap my text with enters, or it will be aligned as justified? who knows! now lets write some lists and code blocks and quotes:
-Some list Things to do: read the documentation. find a good subject to write about write the blog polish and publish And now some code: def averager(*args: int) -&amp;gt; float: return sum(args) / len(args) A picture: Emoji Test 😀🙂 😜 :😀:🙂</description>
+      <guid>http://localhost:1313/en/blog/first-post/</guid>
+      <description>Testing Let&amp;rsquo;s begin by a subtitle! And some more subheading text This is a paragraph of text, with important and semi important words. do I need to wrap my text with enters, or it will be aligned as justified? who knows! now lets write some lists and code blocks and quotes:&#xA;Some list Things to do: read the documentation. find a good subject to write about write the blog polish and publish And now some code: def averager(*args: int) -&amp;gt; float: return sum(args) / len(args) A picture: Emoji Test :grinning_face:🙂 :winking_face_with_tongue: ::grinning_face::🙂</description>
     </item>
-    
   </channel>
 </rss>

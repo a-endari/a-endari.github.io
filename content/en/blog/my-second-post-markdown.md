@@ -9,9 +9,9 @@ thumbnail = "/markdown.png"
 
 # Markdown
 
-### A simple text file that looks good! we can kind of call it the html of plain text.
+### A simple text file that looks good! We can kind of call it the html of plain text.
 
-a title in markdown is simply shown by a single-pound sign followed by a single or multiple spaces -> # , and as you add to the number of _pound_-_signs_ (like ## or ###), you decrease the size of the title.
+A title in markdown is simply shown by a single-pound sign followed by a single or multiple spaces -> # , and as you add to the number of _pound_-_signs_ (like ## or ###), you decrease the size of the title.
 
 ```markdown
 # this would be <h1> title
