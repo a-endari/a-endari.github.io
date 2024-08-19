@@ -11,7 +11,7 @@ thumbnail ="/a.jpg"
 
 ---
 
-## Let's begin by a subtitle!
+## Let's begin by a subtitle
 
 ### And some more subheading text
 
@@ -26,17 +26,16 @@ This is a paragraph of text, with **important** and semi _important_ words. do I
   4. polish
   5. and publish
 
-### And now some code:
+### And now some code
 
 ```python
 def averager(*args: int) -> float:
     return sum(args) / len(args)
 ```
 
-### A picture:
+### A picture
 
 ![beauty and love](/image1.webp)
-
 
 ### Emoji Test
 

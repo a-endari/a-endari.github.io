@@ -13,7 +13,7 @@
       <link>http://localhost:1313/en/blog/problems-of-a-perfectionist/</link>
       <pubDate>Fri, 01 Mar 2024 11:25:37 +0330</pubDate>
       <guid>http://localhost:1313/en/blog/problems-of-a-perfectionist/</guid>
-      <description>Chapter One The trap of perfection After over 30 years of walking the earth believing the problem was with everything else but me, I just recently found out most of the goal I never achieved were the direct result of a very big lie I&amp;rsquo;ve bin telling myself all my life, &amp;ldquo;Perfection is the goal!&amp;rdquo;. Looking back now, I even have a list of rules, that the first command of which reads like this: &amp;ldquo;Do it, only if you can do it perfectly&amp;rdquo;, and oh boy!</description>
+      <description>Chapter One The trap of perfection After over 33 years of walking the earth believing the problem was with everything else but me, I just recently found out most of the goal I never achieved were the direct result of a very big lie I&amp;rsquo;ve bin telling myself all my life, &amp;ldquo;Perfection is the goal!&amp;rdquo;. Looking back now, I even have a list of rules, that the first command of which reads like this: &amp;ldquo;Do it, only if you can do it perfectly&amp;rdquo;, and oh boy!</description>
     </item>
     <item>
       <title>All About Markdown 🗒️</title>
@@ -27,7 +27,7 @@
       <link>http://localhost:1313/en/blog/first-post/</link>
       <pubDate>Thu, 14 Sep 2023 23:45:54 +0330</pubDate>
       <guid>http://localhost:1313/en/blog/first-post/</guid>
-      <description>Testing Let&amp;rsquo;s begin by a subtitle! And some more subheading text This is a paragraph of text, with important and semi important words. do I need to wrap my text with enters, or it will be aligned as justified? who knows! now lets write some lists and code blocks and quotes:&#xA;Some list Things to do: read the documentation. find a good subject to write about write the blog polish and publish And now some code: def averager(*args: int) -&amp;gt; float: return sum(args) / len(args) A picture: Emoji Test :grinning_face:🙂 :winking_face_with_tongue: ::grinning_face::🙂</description>
+      <description>Testing Let&amp;rsquo;s begin by a subtitle And some more subheading text This is a paragraph of text, with important and semi important words. do I need to wrap my text with enters, or it will be aligned as justified? who knows! now lets write some lists and code blocks and quotes:&#xA;Some list Things to do: read the documentation. find a good subject to write about write the blog polish and publish And now some code def averager(*args: int) -&amp;gt; float: return sum(args) / len(args) A picture Emoji Test :grinning_face:🙂 :winking_face_with_tongue: ::grinning_face::🙂</description>
     </item>
     <item>
       <title>Emoji Support</title>
