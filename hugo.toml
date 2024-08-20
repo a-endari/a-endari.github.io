@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'ENDARI'
 theme = 'blist'
 enableEmoji = true
-timeout = "10m"  
+timeout = "10m"
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
@@ -14,7 +14,7 @@ weight = 1
 languageName = "English"
 [languages.en.params]
 introTitle = "Hey!🙋‍♂️ I'm A. Endari"
-introSubtitle = "Biomedical engineer, Python Enthusiast, avid reader and hopefully sometimes soon a blogger!"
+introSubtitle = "Biomedical engineer, Python Enthusiast, avid reader and sometimes a blogger!"
 introPhoto = "/admin_picture.jpeg"
 logo = "/logo.png"
 [[languages.en.menu.main]]
@@ -58,7 +58,7 @@ weight = 4
 #         name = "Tags"
 #         url = "tags"
 #         weight = 3
-  
+
 [params]
 
 darkModeToggle = true
@@ -76,11 +76,11 @@ searchKeys = [
   "summary",
   "content",
   "link",
-  "author"
+  "author",
 ]
 
 # Custom copyright - optional
-copyright = "Copyright © 2023 - Abbas Endari · All rights reserved"
+copyright = "Copyright © 2024 - Abbas Endari · All rights reserved"
 favicon = "/logo.png"
 
 # Color for the intro details and social links block, not applicable for dark mode
@@ -133,7 +133,7 @@ theme = ""
 
 [params.homepage.social]
 # Global params common for both languages
-title = "Follow me (if you can find me!)"
+title = "Follow me!"
 description = "I am on social media, but I'm not really into socializing over media!"
 
 [[params.homepage.social.icons]]
@@ -141,7 +141,7 @@ website = "twitter"
 url = "https://twitter.com/"
 [[params.homepage.social.icons]]
 website = "linkedin"
-url = "https://linkedin.com/in/"
+url = "https://linkedin.com/in/a-endari"
 [[params.homepage.social.icons]]
 website = "xing"
 url = "https://www.xing.com/profile/"
@@ -150,7 +150,7 @@ website = "telegram"
 url = "https://t.me/"
 [[params.homepage.social.icons]]
 website = "github"
-url = "https://github.com/"
+url = "https://github.com/a-endari"
 [[params.homepage.social.icons]]
 website = "buymeacoffee"
 url = "https://www.buymeacoffee.com/"
@@ -165,7 +165,7 @@ website = "dribbble"
 url = "https://dribbble.com/"
 [[params.homepage.social.icons]]
 website = "stackoverflow"
-url = "https://stackoverflow.com/"
+url = "https://stackoverflow.com/users/10739840/"
 [[params.homepage.social.icons]]
 website = "xda"
 url = "https://forum.xda-developers.com/"

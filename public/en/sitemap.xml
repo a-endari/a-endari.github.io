@@ -2,72 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/tags/admin/</loc>
+    <loc>https://a-endari.github.io/en/tags/admin/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-endari.github.io/en/blog/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-endari.github.io/en/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-endari.github.io/en/tags/git/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-endari.github.io/en/tags/linux/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-endari.github.io/en/tags/mac/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-endari.github.io/en/blog/setting_git_up/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-endari.github.io/en/tags/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-endari.github.io/en/tags/tutorial/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-endari.github.io/en/tags/windows/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-endari.github.io/en/tags/perfectionist/</loc>
     <lastmod>2024-03-01T11:25:37+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/blog/</loc>
+    <loc>https://a-endari.github.io/en/blog/problems-of-a-perfectionist/</loc>
     <lastmod>2024-03-01T11:25:37+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://a-endari.github.io/en/tags/self-improvement/</loc>
     <lastmod>2024-03-01T11:25:37+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/perfectionist/</loc>
-    <lastmod>2024-03-01T11:25:37+03:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/blog/problems-of-a-perfectionist/</loc>
-    <lastmod>2024-03-01T11:25:37+03:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/self-improvement/</loc>
-    <lastmod>2024-03-01T11:25:37+03:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2024-03-01T11:25:37+03:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/blog/my-second-post-markdown/</loc>
+    <loc>https://a-endari.github.io/en/blog/my-second-post-markdown/</loc>
     <lastmod>2023-09-25T18:06:54+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/page/about/</loc>
+    <loc>https://a-endari.github.io/en/page/about/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/page/</loc>
+    <loc>https://a-endari.github.io/en/page/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/blog/first-post/</loc>
+    <loc>https://a-endari.github.io/en/blog/first-post/</loc>
     <lastmod>2023-09-14T23:45:54+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/temporary/</loc>
+    <loc>https://a-endari.github.io/en/tags/temporary/</loc>
     <lastmod>2023-09-14T23:45:54+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/testing/</loc>
+    <loc>https://a-endari.github.io/en/tags/testing/</loc>
     <lastmod>2023-09-14T23:45:54+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/emoji/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/blog/emoji-support/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/css/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/html/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/markdown/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/blog/markdown-syntax/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/blog/math-typesetting/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/blog/placeholder-text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://a-endari.github.io/en/categories/</loc>
   </url>
 </urlset>

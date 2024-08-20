@@ -2,7 +2,7 @@
 author: "Hugo Authors"
 title: "Emoji Support"
 date: 2021-07-15
-draft : false
+draft : true
 description: "Guide to emoji usage in Hugo"
 tags: ["emoji"]
 thumbnail: https://picsum.photos/id/1050/400/250
@@ -35,9 +35,9 @@ font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol,
 
 <style>
 .emojify {
-	font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-	font-size: 2rem;
-	vertical-align: middle;
+ font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+ font-size: 2rem;
+ vertical-align: middle;
 }
 @media screen and (max-width:650px) {
   .nowrap {
