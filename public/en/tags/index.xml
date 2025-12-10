@@ -2,80 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ENDARI</title>
-    <link>https://a-endari.github.io/en/tags/</link>
+    <link>http://localhost:1313/en/tags/</link>
     <description>Recent content in Tags on ENDARI</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://a-endari.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Dec 2025 23:45:54 +0330</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Admin</title>
-      <link>https://a-endari.github.io/en/tags/admin/</link>
+      <link>http://localhost:1313/en/tags/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a-endari.github.io/en/tags/admin/</guid>
+      <guid>http://localhost:1313/en/tags/admin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biomedical</title>
+      <link>http://localhost:1313/en/tags/biomedical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/biomedical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Service-Tipps</title>
+      <link>http://localhost:1313/en/tags/service-tipps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/service-tipps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>http://localhost:1313/en/tags/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/software/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>https://a-endari.github.io/en/tags/git/</link>
+      <link>http://localhost:1313/en/tags/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a-endari.github.io/en/tags/git/</guid>
+      <guid>http://localhost:1313/en/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>https://a-endari.github.io/en/tags/linux/</link>
+      <link>http://localhost:1313/en/tags/linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a-endari.github.io/en/tags/linux/</guid>
+      <guid>http://localhost:1313/en/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Mac</title>
-      <link>https://a-endari.github.io/en/tags/mac/</link>
+      <link>http://localhost:1313/en/tags/mac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a-endari.github.io/en/tags/mac/</guid>
+      <guid>http://localhost:1313/en/tags/mac/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>https://a-endari.github.io/en/tags/tutorial/</link>
+      <link>http://localhost:1313/en/tags/tutorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a-endari.github.io/en/tags/tutorial/</guid>
+      <guid>http://localhost:1313/en/tags/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>https://a-endari.github.io/en/tags/windows/</link>
+      <link>http://localhost:1313/en/tags/windows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a-endari.github.io/en/tags/windows/</guid>
+      <guid>http://localhost:1313/en/tags/windows/</guid>
       <description></description>
     </item>
     <item>
       <title>Perfectionist</title>
-      <link>https://a-endari.github.io/en/tags/perfectionist/</link>
+      <link>http://localhost:1313/en/tags/perfectionist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a-endari.github.io/en/tags/perfectionist/</guid>
+      <guid>http://localhost:1313/en/tags/perfectionist/</guid>
       <description></description>
     </item>
     <item>
       <title>Self-Improvement</title>
-      <link>https://a-endari.github.io/en/tags/self-improvement/</link>
+      <link>http://localhost:1313/en/tags/self-improvement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a-endari.github.io/en/tags/self-improvement/</guid>
+      <guid>http://localhost:1313/en/tags/self-improvement/</guid>
       <description></description>
     </item>
     <item>
       <title>Temporary</title>
-      <link>https://a-endari.github.io/en/tags/temporary/</link>
+      <link>http://localhost:1313/en/tags/temporary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a-endari.github.io/en/tags/temporary/</guid>
+      <guid>http://localhost:1313/en/tags/temporary/</guid>
       <description></description>
     </item>
     <item>
       <title>Testing</title>
-      <link>https://a-endari.github.io/en/tags/testing/</link>
+      <link>http://localhost:1313/en/tags/testing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a-endari.github.io/en/tags/testing/</guid>
+      <guid>http://localhost:1313/en/tags/testing/</guid>
       <description></description>
     </item>
   </channel>

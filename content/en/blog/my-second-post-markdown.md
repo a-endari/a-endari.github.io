@@ -1,6 +1,6 @@
 +++
 title = 'All About Markdown 🗒️'
-date = 2023-09-25T18:06:54+03:30
+date = 2023-09-25
 draft = false
 author = "Abbas Endari"
 description = "Lets take look at markdown syntax😬"
@@ -15,10 +15,13 @@ A title in markdown is simply shown by a single-pound sign followed by a single 
 
 ```markdown
 # this would be <h1> title
+
 ## and this would be <h2> title
+
 .
 .
 .
+
 ###### this then would be an equivalant of <h6>
 ```
 

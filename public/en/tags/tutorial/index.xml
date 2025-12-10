@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial on ENDARI</title>
-    <link>https://a-endari.github.io/en/tags/tutorial/</link>
+    <link>http://localhost:1313/en/tags/tutorial/</link>
     <description>Recent content in Tutorial on ENDARI</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://a-endari.github.io/en/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting git up!</title>
-      <link>https://a-endari.github.io/en/blog/setting_git_up/</link>
+      <link>http://localhost:1313/en/blog/setting_git_up/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://a-endari.github.io/en/blog/setting_git_up/</guid>
+      <guid>http://localhost:1313/en/blog/setting_git_up/</guid>
       <description>To Config git take the steps bellow and your basic git setup is done in minutes There are 3 levels of configurations Commands to edit each Settings level:&#xA;git config --sytem &amp;lt;setting to edit&amp;gt; &amp;lt;setting value&amp;gt; git config --global &amp;lt;setting to edit&amp;gt; &amp;lt;setting value&amp;gt; git config --local &amp;lt;setting to edit&amp;gt; &amp;lt;setting value&amp;gt; Scope&#xA;SYSTEM : All Users of current computer&#xA;GLOBAL: All repositories of current user&#xA;LOCAL: The current Repository</description>
     </item>
   </channel>
