@@ -133,8 +133,8 @@ title = "Follow me!"
 description = "I am on social media, but I'm not really into socializing over media!"
 
 [[params.homepage.social.icons]]
-website = "twitter"
-url = "https://twitter.com/"
+website = "x"
+url = "https://x.com/"
 [[params.homepage.social.icons]]
 website = "linkedin"
 url = "https://linkedin.com/in/a-endari"
