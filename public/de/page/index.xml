@@ -2,21 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on A.Endari</title>
-    <link>https://a-endari.github.io/de/page/</link>
+    <link>http://localhost:1313/de/page/</link>
     <description>Recent content in Pages on A.Endari</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a-endari.github.io/de/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/de/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Über mich</title>
-      <link>https://a-endari.github.io/de/page/about/</link>
+      <link>http://localhost:1313/de/page/about/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a-endari.github.io/de/page/about/</guid>
-      <description>Hugo wurde in Go geschrieben und ist ein Open-Source-Generator für statische Sites, der unter der [Apache License 2.0.] (https://github.com/gohugoio/hugo/blob/master/LICENSE) verfügbar ist. Hugo unterstützt TOML-, YAML- und JSON-Datendateitypen , Markdown- und HTML-Inhaltsdateien und verwendet Shortcodes, um Rich Content hinzuzufügen. Andere bemerkenswerte Funktionen sind Taxonomien, mehrsprachiger Modus, Bildverarbeitung, benutzerdefinierte Ausgabeformate, HTML/CSS/JS-Minifizierung und Unterstützung für Sass SCSS-Workflows.
-Hugo nutzt eine Vielzahl von Open-Source-Projekten, darunter:
-https://github.com/yuin/goldmarkhttps://github.com/alecthomas/chromahttps://github.com/muesli/smartcrophttps://github.com/spf13/cobrahttps://github.com/spf13/viperHugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</description>
+      <guid>http://localhost:1313/de/page/about/</guid>
+      <description>Hugo wurde in Go geschrieben und ist ein Open-Source-Generator für statische Sites, der unter der [Apache License 2.0.] (https://github.com/gohugoio/hugo/blob/master/LICENSE&#xD;) verfügbar ist. Hugo unterstützt TOML-, YAML- und JSON-Datendateitypen , Markdown- und HTML-Inhaltsdateien und verwendet Shortcodes, um Rich Content hinzuzufügen. Andere bemerkenswerte Funktionen sind Taxonomien, mehrsprachiger Modus, Bildverarbeitung, benutzerdefinierte Ausgabeformate, HTML/CSS/JS-Minifizierung und Unterstützung für Sass SCSS-Workflows.&#xA;Hugo nutzt eine Vielzahl von Open-Source-Projekten, darunter:&#xA;https://github.com/yuin/goldmark&#xD;https://github.com/alecthomas/chroma&#xD;https://github.com/muesli/smartcrop&#xD;https://github.com/spf13/cobra&#xD;https://github.com/spf13/viper&#xD;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</description>
     </item>
-    
   </channel>
 </rss>

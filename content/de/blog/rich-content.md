@@ -11,22 +11,4 @@ Hugo wird mit mehreren [Built-in Shortcodes](https://gohugo.io/content-managemen
 
 ## <!--more-->
 
-## YouTube Privacy Enhanced Shortcode
-
-{{< youtube ZJthWmvUzzc >}}
-
-<br>
-
----
-
-## Twitter Simple Shortcode
-
-{{< twitter_simple 1085870671291310081 >}}
-
-<br>
-
----
-
-## Vimeo Simple Shortcode
-
-{{< vimeo_simple 48912912 >}}
+etwas mehr Text

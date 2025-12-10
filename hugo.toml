@@ -32,32 +32,28 @@ name = "Tags"
 url = "tags"
 weight = 3
 
-[[languages.en.menu.main]]
-name = "Top Post"
-url = "/en/blog/emoji-support/"
-weight = 4
-# [languages.de]
-#     contentDir = "content/de" # Deutsch
-#     weight = 2
-#     languageName = "Deutsch"
-#     title = "A.Endari"
-#     [languages.de.params]
-#       introTitle = "Hallo, ich bin A Endari"
-#       introSubtitle = "Ich bin ein biomedizinischer Ingenieur und ich liebe Python-Programmierung, außerdem lese ich sehr gerne."
-#       introPhoto = "/admin_picture.jpeg"
-#       logo = "/logo.png"
-#     [[languages.de.menu.main]]
-#         name = "Blog"
-#         url = "blog"
-#         weight = 1
-#     [[languages.de.menu.main]]
-#         name = "Über mich"
-#         url = "page/about/"
-#         weight = 2
-#     [[languages.de.menu.main]]
-#         name = "Tags"
-#         url = "tags"
-#         weight = 3
+[languages.de]
+contentDir = "content/de" # Deutsch
+weight = 2
+languageName = "Deutsch"
+title = "A.Endari"
+[languages.de.params]
+introTitle = "Hallo, ich bin A Endari"
+introSubtitle = "Ich bin ein biomedizinischer Ingenieur und ich liebe Python-Programmierung, außerdem lese ich sehr gerne."
+introPhoto = "/admin_picture.jpeg"
+logo = "/logo.png"
+[[languages.de.menu.main]]
+name = "Blog"
+url = "blog"
+weight = 1
+[[languages.de.menu.main]]
+name = "Über mich"
+url = "page/about/"
+weight = 2
+[[languages.de.menu.main]]
+name = "Tags"
+url = "tags"
+weight = 3
 
 [params]
 

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>text on A.Endari</title>
-    <link>https://a-endari.github.io/de/tags/text/</link>
-    <description>Recent content in text on A.Endari</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Text on A.Endari</title>
+    <link>http://localhost:1313/de/tags/text/</link>
+    <description>Recent content in Text on A.Endari</description>
+    <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a-endari.github.io/de/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/de/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Platzhaltertext</title>
-      <link>https://a-endari.github.io/de/blog/placeholder-text/</link>
+      <link>http://localhost:1313/de/blog/placeholder-text/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a-endari.github.io/de/blog/placeholder-text/</guid>
+      <guid>http://localhost:1313/de/blog/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

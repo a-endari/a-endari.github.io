@@ -2,194 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://a-endari.github.io/de/</loc>
+    <loc>http://localhost:1313/de/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://a-endari.github.io/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://a-endari.github.io/de/"
+                href="http://localhost:1313/de/"
                 />
   </url><url>
-    <loc>https://a-endari.github.io/de/blog/</loc>
+    <loc>http://localhost:1313/de/blog/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://a-endari.github.io/en/blog/"
+                href="http://localhost:1313/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://a-endari.github.io/de/blog/"
+                href="http://localhost:1313/de/blog/"
                 />
   </url><url>
-    <loc>https://a-endari.github.io/de/tags/emoji/</loc>
+    <loc>http://localhost:1313/de/tags/emoji/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://a-endari.github.io/en/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://a-endari.github.io/de/tags/emoji/"
-                />
   </url><url>
-    <loc>https://a-endari.github.io/de/blog/emoji-support/</loc>
+    <loc>http://localhost:1313/de/blog/emoji-support/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://a-endari.github.io/en/blog/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://a-endari.github.io/de/blog/emoji-support/"
-                />
   </url><url>
-    <loc>https://a-endari.github.io/de/page/</loc>
+    <loc>http://localhost:1313/de/page/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://a-endari.github.io/en/page/"
+                href="http://localhost:1313/en/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://a-endari.github.io/de/page/"
+                href="http://localhost:1313/de/page/"
                 />
   </url><url>
-    <loc>https://a-endari.github.io/de/tags/</loc>
+    <loc>http://localhost:1313/de/tags/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://a-endari.github.io/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://a-endari.github.io/de/tags/"
+                href="http://localhost:1313/de/tags/"
                 />
   </url><url>
-    <loc>https://a-endari.github.io/de/page/about/</loc>
+    <loc>http://localhost:1313/de/page/about/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://a-endari.github.io/en/page/about/"
+                href="http://localhost:1313/en/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://a-endari.github.io/de/page/about/"
+                href="http://localhost:1313/de/page/about/"
                 />
   </url><url>
-    <loc>https://a-endari.github.io/de/tags/css/</loc>
+    <loc>http://localhost:1313/de/tags/css/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://a-endari.github.io/en/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://a-endari.github.io/de/tags/css/"
-                />
   </url><url>
-    <loc>https://a-endari.github.io/de/tags/html/</loc>
+    <loc>http://localhost:1313/de/tags/html/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://a-endari.github.io/en/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://a-endari.github.io/de/tags/html/"
-                />
   </url><url>
-    <loc>https://a-endari.github.io/de/tags/markdown/</loc>
+    <loc>http://localhost:1313/de/tags/markdown/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://a-endari.github.io/en/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://a-endari.github.io/de/tags/markdown/"
-                />
   </url><url>
-    <loc>https://a-endari.github.io/de/blog/markdown-syntax/</loc>
+    <loc>http://localhost:1313/de/blog/markdown-syntax/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/de/blog/placeholder-text/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/de/tags/privacy/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/de/blog/rich-content/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/de/tags/shortcodes/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/de/tags/text/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://a-endari.github.io/en/blog/markdown-syntax/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://a-endari.github.io/de/blog/markdown-syntax/"
-                />
-  </url><url>
-    <loc>https://a-endari.github.io/de/blog/placeholder-text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://a-endari.github.io/en/blog/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://a-endari.github.io/de/blog/placeholder-text/"
-                />
-  </url><url>
-    <loc>https://a-endari.github.io/de/tags/privacy/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a-endari.github.io/de/blog/rich-content/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a-endari.github.io/de/tags/shortcodes/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a-endari.github.io/de/tags/text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://a-endari.github.io/en/tags/text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://a-endari.github.io/de/tags/text/"
-                />
-  </url><url>
-    <loc>https://a-endari.github.io/de/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://a-endari.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://a-endari.github.io/de/categories/"
+                href="http://localhost:1313/de/categories/"
                 />
   </url>
 </urlset>
