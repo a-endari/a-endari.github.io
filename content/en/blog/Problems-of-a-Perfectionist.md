@@ -1,7 +1,7 @@
 +++
 title = 'Problems of a Perfectionist'
 date = 2024-03-01T11:25:37+03:30
-draft = false
+draft = true
 author = "Abbas Endari"
 description = "I was a perfectionist, and this is a dive into the see of problems it brought me."
 tags = ["Admin", "self-improvement", "perfectionist"]
