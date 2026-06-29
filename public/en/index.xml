@@ -6,8 +6,15 @@
     <description>Recent content on ENDARI</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Dec 2025 23:45:54 +0330</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NeoVim</title>
+      <link>http://localhost:1313/en/blog/story-of-neovim/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/story-of-neovim/</guid>
+      <description>Terminal, real home of any computer enthusiast. Vim the simplest of all word processors, or in my slightly moderner case: &amp;ldquo;Neovim&amp;rdquo; is the step you get back before jumping far ahead! Yes, I know! At first it seems like a setback — with your 6-button mouse, or even worse your touch Apple Mouse, you wouldn&amp;rsquo;t even consider going back to a simple Terminal app with almost no GUI and the weirdest set of shortcut keys to be more productive.</description>
+    </item>
     <item>
       <title>🔌 A Simple Checklist I Use When Diagnosing Power Issues in Medical Devices</title>
       <link>http://localhost:1313/en/blog/power_checklist/</link>
@@ -23,11 +30,11 @@
       <description>Confessions of a BioMed Tech: The “Oops” Moments That Keep Me Busy! Ever seen a medical device suddenly act strange or shut down completely? As a biomedical engineering service technician, I’m the detective who shows up to figure out why. And the surprising truth is this:&#xA;A huge percentage of medical device “malfunctions” aren’t technical failures at all. They’re small user errors that build up over time.&#xA;So let’s talk about the biggest culprits.</description>
     </item>
     <item>
-      <title>Obsidian</title>
+      <title>Obsidian: Your Second Brain, Built on Plain Text</title>
       <link>http://localhost:1313/en/blog/obsidian/</link>
       <pubDate>Sun, 18 May 2025 21:30:03 +0330</pubDate>
       <guid>http://localhost:1313/en/blog/obsidian/</guid>
-      <description>Obsidian Let’s agree on one thing: Obsidian is easily one of the best choices you can make when it comes to note-taking apps. Over the years, I’ve tried more note-taking apps than I can count — from good old Windows Notepad and Samsung Notes (back when it was still called S Note, I think!) all the way to Notion, MS Word, Apple Notes, and Pages. You name it, I’ve dabbled with it.</description>
+      <description>Obsidian: Your Second Brain, Built on Plain Text Let&amp;rsquo;s agree on one thing Obsidian is easily one of the best choices you can make when it comes to note-taking apps.&#xA;Over the years, I&amp;rsquo;ve tried more note-taking apps than I can count — from good old Windows Notepad and Samsung Notes (back when it was still called S Note!) all the way to Notion, MS Word, Apple Notes, Google Keep, Evernote, OneNote, Roam Research, Logseq, and Craft.</description>
     </item>
     <item>
       <title>Setting git up!</title>
@@ -35,20 +42,6 @@
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/blog/setting_git_up/</guid>
       <description>To Config git take the steps bellow and your basic git setup is done in minutes There are 3 levels of configurations Commands to edit each Settings level:&#xA;git config --sytem &amp;lt;setting to edit&amp;gt; &amp;lt;setting value&amp;gt; git config --global &amp;lt;setting to edit&amp;gt; &amp;lt;setting value&amp;gt; git config --local &amp;lt;setting to edit&amp;gt; &amp;lt;setting value&amp;gt; Scope&#xA;SYSTEM : All Users of current computer&#xA;GLOBAL: All repositories of current user&#xA;LOCAL: The current Repository</description>
-    </item>
-    <item>
-      <title>Problems of a Perfectionist</title>
-      <link>http://localhost:1313/en/blog/problems-of-a-perfectionist/</link>
-      <pubDate>Fri, 01 Mar 2024 11:25:37 +0330</pubDate>
-      <guid>http://localhost:1313/en/blog/problems-of-a-perfectionist/</guid>
-      <description>Chapter One The trap of perfection After over 33 years of walking the earth believing the problem was with everything else but me, I just recently found out most of the goal I never achieved were the direct result of a very big lie I&amp;rsquo;ve bin telling myself all my life, &amp;ldquo;Perfection is the goal!&amp;rdquo;. Looking back now, I even have a list of rules, that the first command of which reads like this: &amp;ldquo;Do it, only if you can do it perfectly&amp;rdquo;, and oh boy!</description>
-    </item>
-    <item>
-      <title>NeoVim and Hugo</title>
-      <link>http://localhost:1313/en/blog/my-new-post-from-vim/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/my-new-post-from-vim/</guid>
-      <description>Terminal, real home of any computer enthusiast. Vim the simplest of all word processors, or in my slightly moderner case: &amp;ldquo;Neovim&amp;rdquo; is the step you get back before jumping far ahead! Yes, I know! At first it seems like a setback — with your 6-button mouse, or even worse your touch Apple Mouse, you wouldn&amp;rsquo;t even consider going back to a simple Terminal app with almost no GUI and the weirdest set of shortcut keys to be more productive.</description>
     </item>
     <item>
       <title>All About Markdown 🗒️</title>

@@ -30,6 +30,20 @@
       <description></description>
     </item>
     <item>
+      <title>PKM</title>
+      <link>http://localhost:1313/en/tags/pkm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/pkm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>http://localhost:1313/en/tags/productivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Software</title>
       <link>http://localhost:1313/en/tags/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -69,20 +83,6 @@
       <link>http://localhost:1313/en/tags/windows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/tags/windows/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Perfectionist</title>
-      <link>http://localhost:1313/en/tags/perfectionist/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/perfectionist/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Self-Improvement</title>
-      <link>http://localhost:1313/en/tags/self-improvement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/self-improvement/</guid>
       <description></description>
     </item>
     <item>

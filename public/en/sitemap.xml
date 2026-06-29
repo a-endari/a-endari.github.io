@@ -2,17 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/blog/power_checklist/</loc>
-    <lastmod>2025-12-02T23:45:54+03:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/admin/</loc>
-    <lastmod>2025-12-02T23:45:54+03:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/biomedical/</loc>
-    <lastmod>2025-12-02T23:45:54+03:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/en/blog/</loc>
-    <lastmod>2025-12-02T23:45:54+03:30</lastmod>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -25,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2025-12-02T23:45:54+03:30</lastmod>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -36,6 +27,18 @@
                 hreflang="en"
                 href="http://localhost:1313/en/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/story-of-neovim/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/blog/power_checklist/</loc>
+    <lastmod>2025-12-02T23:45:54+03:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/admin/</loc>
+    <lastmod>2025-12-02T23:45:54+03:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/biomedical/</loc>
+    <lastmod>2025-12-02T23:45:54+03:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/tags/service-tipps/</loc>
     <lastmod>2025-12-02T23:45:54+03:30</lastmod>
@@ -59,6 +62,12 @@
     <loc>http://localhost:1313/en/blog/obsidian/</loc>
     <lastmod>2025-05-18T21:30:03+03:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/en/tags/pkm/</loc>
+    <lastmod>2025-05-18T21:30:03+03:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/productivity/</loc>
+    <lastmod>2025-05-18T21:30:03+03:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/tags/software/</loc>
     <lastmod>2025-05-18T21:30:03+03:30</lastmod>
   </url><url>
@@ -79,18 +88,6 @@
   </url><url>
     <loc>http://localhost:1313/en/tags/windows/</loc>
     <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/perfectionist/</loc>
-    <lastmod>2024-03-01T11:25:37+03:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/blog/problems-of-a-perfectionist/</loc>
-    <lastmod>2024-03-01T11:25:37+03:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/self-improvement/</loc>
-    <lastmod>2024-03-01T11:25:37+03:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/blog/my-new-post-from-vim/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/blog/my-second-post-markdown/</loc>
     <lastmod>2023-09-25T00:00:00+00:00</lastmod>
