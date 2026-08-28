@@ -73,4 +73,4 @@ My job is to fix these issues, but my goal is to help prevent them. A little ext
 
 Got your own “gremlin encounter” (anonymous, of course)? Drop it in the comments. 👇
 
-#BiomedicalEngineering #ClinicalEngineering #MedTech #DeviceFailure #UserError #HealthcareTechnology #PatientSafety #BioMedHumor #FieldService #MaintenanceMatters
+#BiomedicalEngineering #ClinicalEngineering #MedTech #DeviceFailure #UserError #HealthcareTechnology #PatientSafety #BioMedHumor #FieldService #MaintenanceMatters #DYI
